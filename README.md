@@ -4,7 +4,7 @@
 </p>
 <h3 align="center">A passionate finance manager in Digital Assets</h3>
 <p align="right">
-  <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/bTrTnPMPq8UORCrBWG/giphy.gif?cid=ecf05e47we8uuabt04vh1lkxzuvzkr9ehrq43yqkiym2mbwd&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+  <img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/bTrTnPMPq8UORCrBWG/giphy.gif?cid=ecf05e47we8uuabt04vh1lkxzuvzkr9ehrq43yqkiym2mbwd&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </p>
 
 - 🔭 I’m currently working on **the first Crypto Software worldwide**
