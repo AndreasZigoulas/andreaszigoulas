@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andreas Zigoulas</h1>
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAShQGz99wbkRMrPymUK4AqyCrT9JtgNbpLQ" alt="MasterHead">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCv06Rxx4daXhmYR45euOZcfgusqVMh2qmVw">
 </p>
 <h3 align="center">A passionate finance manager in Digital Assets</h3>
 <p align="right">
